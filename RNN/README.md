@@ -1,6 +1,6 @@
  This repository contains the following projects
  
- [**1. Forecasting stock price using Long Short-Term Memory (LSTM) - December 2021**](https://github.com/BearsOnMars/Deep_Learning/blob/main/RNN/An_LSTM_to_predict_trend_in_stock_prices.ipynb)
+ [**1. Forecasting stock price using Long Short-Term Memory (LSTM) - March 2023**](https://github.com/BearsOnMars/Deep_Learning/blob/main/RNN/An_LSTM_to_predict_trend_in_stock_prices.ipynb)
 
 **Situation:** Forecast next 18 day stock price of GOOG from historical data
 
