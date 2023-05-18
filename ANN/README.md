@@ -1,6 +1,6 @@
 This repository contains the following projects
 
-[**1. Forecast electrical energy output of a Power Plant using Artificial Neural Networks (ANN)	(October 2021)**](https://github.com/ShashwatSinghRajput/DeepLearning/blob/main/ANN/Regression/ANN_for_Regression.ipynb)
+[**1. Forecast electrical energy output of a Power Plant using Artificial Neural Networks (ANN)	(April 2023)**](https://github.com/ShashwatSinghRajput/DeepLearning/blob/main/ANN/Regression/ANN_for_Regression.ipynb)
 
   **Situation:** 
       Predict net-hourly electrical energy output over next 15 months 
@@ -15,7 +15,7 @@ This repository contains the following projects
   RMSE convergence achieved in 26-27 range. Predicted hourly-output proximate to actual values
 
 
-[**2. Churn Modelling for a Bank using Logistic Regression	(November 2021)**](https://github.com/ShashwatSinghRajput/DeepLearning/blob/main/ANN/Classification/ANN_for_Classification.ipynb)
+[**2. Churn Modelling for a Bank using Logistic Regression	(May 2023)**](https://github.com/ShashwatSinghRajput/DeepLearning/blob/main/ANN/Classification/ANN_for_Classification.ipynb)
 
 
  **Situation:**
